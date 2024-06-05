@@ -11,4 +11,4 @@ About the scripts :
 
 Statistical analyses : The clinical data post cleaning was subjected to correlation and ANOVA tests.
 
-WGCNA: the outlier datasets were removed and gene custers were made. The modules were related with traits and genes correlated to vitamin D, calcium and estimated insulin sensitivity were extracted.
+WGCNA : the outlier datasets were removed and gene custers were made. The modules were related with traits and genes correlated to vitamin D, calcium and estimated insulin sensitivity were extracted.
