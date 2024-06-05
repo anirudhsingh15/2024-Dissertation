@@ -9,6 +9,6 @@ Packages used: Refer the scripts (libraries)
 
 About the scripts :
 
-Statistical analyses : The clinical data post cleaning was subjected to correlation and ANOVA tests.
+Correlation_and_ANOVA : This script holds the necessary functions for correlation testing, tercile division of data and ANOVA. This script should be run first to check the integrity of the data and reproducing the results from the study.
 
-WGCNA : the outlier datasets were removed and gene custers were made. The modules were related with traits and genes correlated to vitamin D, calcium and estimated insulin sensitivity were extracted.
+WGCNA : The outlier datasets were removed and gene custers were made. The modules were related with traits and genes correlated to vitamin D, calcium and estimated insulin sensitivity were extracted. This script needs to be run second and reproduce the reults from the study.
